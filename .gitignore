@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 node_modules/
 .env
 build/
 dist/
+=======
+node_modules/
+>>>>>>> e2bc83b (First)
